@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on MarioPinedaBlog</title>
+    <link>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/</link>
+    <description>Recent content in Home on MarioPinedaBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://soyMarioPineda.github.io/Mariodoblep_Blog/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curso introductorio para programar PICs</title>
+      <link>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455/</guid>
+      
+      <description>&lt;p&gt;&lt;strong&gt;Capítulo 1. Buenas prácticas y conceptos básicos de registros&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;11-introducción-histórica&#34;&gt;1.1 Introducción histórica&lt;/h3&gt;
+&lt;p&gt;A comienzos de la década de 1990, la revolución de los microcontroladores estaba en pleno auge. Empresas como Intel y Motorola habían asentado las bases con sus arquitecturas x86 y 68k, orientadas al mercado de ordenadores de sobremesa y estaciones de trabajo. Sin embargo, en 1993 Microchip Technology dio un paso decisivo al presentar la familia &lt;strong&gt;PIC16&lt;/strong&gt; (Peripheral Interface Controller)¹, un microcontrolador de 8 bits caracterizado por su bajo coste, gran versatilidad y arquitectura RISC simplificada.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>GRECIA TE AMO ❤️</title>
+      <link>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/grecia/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/grecia/</guid>
+      
+      <description>&lt;h3 id=&#34;pruebaaaa&#34;&gt;Pruebaaaa&lt;/h3&gt;
+&lt;p&gt;hola que tal amigos esto es una prueba&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Acerca de</title>
+      <link>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/pages/about/</guid>
+      
+      <description>&lt;p&gt;Lorem&lt;/p&gt;
+&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
+&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
+&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
