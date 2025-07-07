@@ -1,0 +1,16 @@
+# Ignorar la carpeta generada por Hugo
+/public/
+/resources/_gen/
+
+# Ignorar dependencias (si usas NodeJS u otros)
+/node_modules/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.swp
+*.swo
+*.tmp
+*~
