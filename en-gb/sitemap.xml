@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/pages/about/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -14,19 +15,8 @@
                 href="https://soyMarioPineda.github.io/Mariodoblep_Blog/pages/about/"
                 />
   </url><url>
-    <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://soyMarioPineda.github.io/Mariodoblep_Blog/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://soyMarioPineda.github.io/Mariodoblep_Blog/categories/"
-                />
-  </url><url>
     <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -39,6 +29,7 @@
                 />
   </url><url>
     <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/pages/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -51,6 +42,7 @@
                 />
   </url><url>
     <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/posts/</loc>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -60,6 +52,21 @@
                 rel="alternate"
                 hreflang="en-gb"
                 href="https://soyMarioPineda.github.io/Mariodoblep_Blog/posts/"
+                />
+  </url><url>
+    <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/posts/prueba_post_en/</loc>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://soyMarioPineda.github.io/Mariodoblep_Blog/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://soyMarioPineda.github.io/Mariodoblep_Blog/categories/"
                 />
   </url><url>
     <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/tags/</loc>

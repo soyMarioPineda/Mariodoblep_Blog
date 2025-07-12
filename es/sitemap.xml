@@ -2,20 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455-copy-2/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455-copy-3/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455-copy/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+    <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/pages/about/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://soyMarioPineda.github.io/Mariodoblep_Blog/pages/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://soyMarioPineda.github.io/Mariodoblep_Blog/es/pages/about/"
+                />
   </url><url>
     <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
@@ -25,6 +26,19 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://soyMarioPineda.github.io/Mariodoblep_Blog/es/"
+                />
+  </url><url>
+    <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/pages/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://soyMarioPineda.github.io/Mariodoblep_Blog/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://soyMarioPineda.github.io/Mariodoblep_Blog/es/pages/"
                 />
   </url><url>
     <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/</loc>
@@ -40,17 +54,8 @@
                 href="https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/"
                 />
   </url><url>
-    <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/pages/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://soyMarioPineda.github.io/Mariodoblep_Blog/pages/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://soyMarioPineda.github.io/Mariodoblep_Blog/es/pages/about/"
-                />
+    <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/prueba_post/</loc>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/categories/</loc>
     <xhtml:link
@@ -62,18 +67,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://soyMarioPineda.github.io/Mariodoblep_Blog/es/categories/"
-                />
-  </url><url>
-    <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/pages/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://soyMarioPineda.github.io/Mariodoblep_Blog/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://soyMarioPineda.github.io/Mariodoblep_Blog/es/pages/"
                 />
   </url><url>
     <loc>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/tags/</loc>

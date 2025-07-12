@@ -8,58 +8,16 @@
     <language>es</language>
     <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Curso introductorio para programar PICs</title>
-      <link>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455-copy-2/</link>
+      <title>Reflxión México Blockchain (prueba)</title>
+      <link>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/prueba_post/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455-copy-2/</guid>
+      <guid>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/prueba_post/</guid>
       
-      <description>&lt;p&gt;&lt;strong&gt;Capítulo 1. Buenas prácticas y conceptos básicos de registros&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;11-introducción-histórica&#34;&gt;1.1 Introducción histórica&lt;/h3&gt;
-&lt;p&gt;A comienzos de la década de 1990, la revolución de los microcontroladores estaba en pleno auge. Empresas como Intel y Motorola habían asentado las bases con sus arquitecturas x86 y 68k, orientadas al mercado de ordenadores de sobremesa y estaciones de trabajo. Sin embargo, en 1993 Microchip Technology dio un paso decisivo al presentar la familia &lt;strong&gt;PIC16&lt;/strong&gt; (Peripheral Interface Controller)¹, un microcontrolador de 8 bits caracterizado por su bajo coste, gran versatilidad y arquitectura RISC simplificada.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Curso introductorio para programar PICs</title>
-      <link>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455-copy-3/</link>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455-copy-3/</guid>
-      
-      <description>&lt;p&gt;&lt;strong&gt;Capítulo 1. Buenas prácticas y conceptos básicos de registros&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;11-introducción-histórica&#34;&gt;1.1 Introducción histórica&lt;/h3&gt;
-&lt;p&gt;A comienzos de la década de 1990, la revolución de los microcontroladores estaba en pleno auge. Empresas como Intel y Motorola habían asentado las bases con sus arquitecturas x86 y 68k, orientadas al mercado de ordenadores de sobremesa y estaciones de trabajo. Sin embargo, en 1993 Microchip Technology dio un paso decisivo al presentar la familia &lt;strong&gt;PIC16&lt;/strong&gt; (Peripheral Interface Controller)¹, un microcontrolador de 8 bits caracterizado por su bajo coste, gran versatilidad y arquitectura RISC simplificada.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Curso introductorio para programar PICs</title>
-      <link>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455-copy/</link>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455-copy/</guid>
-      
-      <description>&lt;p&gt;&lt;strong&gt;Capítulo 1. Buenas prácticas y conceptos básicos de registros&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;11-introducción-histórica&#34;&gt;1.1 Introducción histórica&lt;/h3&gt;
-&lt;p&gt;A comienzos de la década de 1990, la revolución de los microcontroladores estaba en pleno auge. Empresas como Intel y Motorola habían asentado las bases con sus arquitecturas x86 y 68k, orientadas al mercado de ordenadores de sobremesa y estaciones de trabajo. Sin embargo, en 1993 Microchip Technology dio un paso decisivo al presentar la familia &lt;strong&gt;PIC16&lt;/strong&gt; (Peripheral Interface Controller)¹, un microcontrolador de 8 bits caracterizado por su bajo coste, gran versatilidad y arquitectura RISC simplificada.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Curso introductorio para programar PICs</title>
-      <link>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455/</link>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://soyMarioPineda.github.io/Mariodoblep_Blog/es/posts/pic18f4455/</guid>
-      
-      <description>&lt;p&gt;&lt;strong&gt;Capítulo 1. Buenas prácticas y conceptos básicos de registros&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;11-introducción-histórica&#34;&gt;1.1 Introducción histórica&lt;/h3&gt;
-&lt;p&gt;A comienzos de la década de 1990, la revolución de los microcontroladores estaba en pleno auge. Empresas como Intel y Motorola habían asentado las bases con sus arquitecturas x86 y 68k, orientadas al mercado de ordenadores de sobremesa y estaciones de trabajo. Sin embargo, en 1993 Microchip Technology dio un paso decisivo al presentar la familia &lt;strong&gt;PIC16&lt;/strong&gt; (Peripheral Interface Controller)¹, un microcontrolador de 8 bits caracterizado por su bajo coste, gran versatilidad y arquitectura RISC simplificada.&lt;/p&gt;</description>
+      <description>&lt;p&gt;La tecnología &lt;strong&gt;blockchain&lt;/strong&gt; ha dejado de ser solo una palabra de moda en el mundo financiero para convertirse en una oportunidad real de transformación para países como México.&lt;/p&gt;
+&lt;p&gt;A pesar de los desafíos económicos, sociales y políticos que enfrentamos, el potencial de &lt;strong&gt;blockchain como motor de transparencia, inclusión financiera y descentralización&lt;/strong&gt; es inmenso.&lt;/p&gt;
+&lt;h2 id=&#34;una-oportunidad-para-reconstruir-la-confianza&#34;&gt;Una oportunidad para reconstruir la confianza&lt;/h2&gt;
+&lt;p&gt;México es un país con una historia marcada por la corrupción y la desconfianza institucional. En este contexto, blockchain puede actuar como un registro inmutable y verificable que reduzca la manipulación de datos públicos, licitaciones gubernamentales, procesos electorales o subsidios sociales.&lt;/p&gt;</description>
       
     </item>
     
